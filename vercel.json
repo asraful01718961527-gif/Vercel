@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://lit-invalid-benchmark-searches.trycloudflare.com/$1"
+      "destination": "https://timely-test-segments-session.trycloudflare.com/$1"
     }
   ]
 }
