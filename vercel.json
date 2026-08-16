@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://median-respiratory-barbara-communications.trycloudflare.com/$1"
+      "destination": "https://move-grow-friends-include.trycloudflare.com/$1"
     }
   ]
 }
