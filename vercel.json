@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://foto-flour-competent-mai.trycloudflare.com/$1"
+      "destination": "https://wireless-delivered-wedding-bracelet.trycloudflare.com/$1"
     }
   ]
 }
