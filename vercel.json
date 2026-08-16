@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://alberta-trip-gauge-mind.trycloudflare.com/$1"
+      "destination": "https://mall-occupied-warrant-jefferson.trycloudflare.com/$1"
     }
   ]
 }
