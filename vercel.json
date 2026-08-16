@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://inventory-fool-blackjack-pgp.trycloudflare.com/$1"
+      "destination": "https://lit-invalid-benchmark-searches.trycloudflare.com/$1"
     }
   ]
 }
