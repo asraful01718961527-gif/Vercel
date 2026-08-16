@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://timely-test-segments-session.trycloudflare.com/$1"
+      "destination": "https://tract-auckland-springfield-decimal.trycloudflare.com/$1"
     }
   ]
 }
