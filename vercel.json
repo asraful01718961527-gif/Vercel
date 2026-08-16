@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://understanding-apnic-lions-reserve.trycloudflare.com/$1"
+      "destination": "https://inventory-fool-blackjack-pgp.trycloudflare.com/$1"
     }
   ]
 }
