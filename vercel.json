@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://out-of-law--munnadhali0006.replit.app/$1"
+      "destination": "https://alberta-trip-gauge-mind.trycloudflare.com/$1"
     }
   ]
 }
