@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://wireless-delivered-wedding-bracelet.trycloudflare.com/$1"
+      "destination": "https://understanding-apnic-lions-reserve.trycloudflare.com/$1"
     }
   ]
 }
