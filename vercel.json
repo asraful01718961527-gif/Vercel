@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://move-grow-friends-include.trycloudflare.com/$1"
+      "destination": "https://foto-flour-competent-mai.trycloudflare.com/$1"
     }
   ]
 }
