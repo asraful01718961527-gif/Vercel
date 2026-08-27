@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://tract-auckland-springfield-decimal.trycloudflare.com/$1"
+      "destination": "https://weekends-benefit-commodity-proceeding.trycloudflare.com/$1"
     }
   ]
 }
