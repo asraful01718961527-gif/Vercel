@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://arising-athletes-sounds-philip.trycloudflare.com/$1"
+      "destination": "https://spaces-toys-maintaining-looked.trycloudflare.com/$1"
     }
   ]
 }
