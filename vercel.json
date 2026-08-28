@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://weekends-benefit-commodity-proceeding.trycloudflare.com/$1"
+      "destination": "https://arising-athletes-sounds-philip.trycloudflare.com/$1"
     }
   ]
 }
