@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://robots-worldwide-precise-skins.trycloudflare.com/$1"
+      "destination": "http://51.75.118.18:20331/$1"
     }
   ]
 }
