@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "http://51.75.118.18:20331/$1"
+      "destination": "http://out-of-law-spam.vercel.app/$1"
     }
   ]
 }
